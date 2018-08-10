@@ -1,0 +1,18 @@
+{
+  "name": "petscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "casperjs": "^1.1.4",
+    "cheerio": "^1.0.0-rc.2",
+    "csv-writer": "^1.0.0",
+    "json2csv": "^4.2.0",
+    "request": "^2.87.0"
+  }
+}

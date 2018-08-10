@@ -1,0 +1,8 @@
+node_modules/
+
+*.csv
+cars.json
+dogs.json
+package-lock.json
+
+.gitigonore
